@@ -1,0 +1,383 @@
+
+  
+.dark-2{
+    color:#474747
+}
+body{
+    background-color: #e8f7ef;
+    justify-items: stretch;
+}
+.btn-primary{
+    background-color: white;
+    justify-content: right;
+    font-weight: bold;
+    color: #006A50;
+    border-radius: 5px;
+    border-color: #006A50;
+    font-style: normal;
+    height: 30px;
+}
+.btn-primary:hover {
+    background-color: #6dfff3; 
+}
+.btn-secondary{
+    background-color: #006A50;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    border-color: #006A50;
+    height: 35px;
+    border: none;
+}
+.btn-secondary:hover {
+    background-color: #862c57; 
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 200px;
+    padding: 18px 35px;
+    border-radius:5px ;
+}
+.nav-title{
+    font-weight:bolder ;
+    font-size: 20px;
+
+}
+.banner{
+    display: flex;
+    align-items:center;
+    background-color:#d1e3db;
+    padding: 30px;
+    margin-left:80px;
+    margin-right:80px;
+    border-radius: 12px;
+}
+.outer{
+    align-content: center;
+    align-items: stretch;
+}
+.banner-description{
+    font-weight: bold;
+    font-size: 56px;
+}
+.banner-title{
+    color: #0E0E0E;
+    opacity: 50%;
+
+}
+.pillar{
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right:80px; 
+}
+.pillar-block{
+    display: flex;
+    margin-top: 18px;
+
+
+}
+.f-block{
+    border: 1px solid rgb(205, 201, 201);
+    opacity: 2px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px; 
+    width: 350px; 
+    height: 195px;
+    margin-right: 15px;
+
+    
+}
+.pf{
+    color: #716c6c;
+}
+.vision-section{
+    align-items: stretch;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right:80px;
+
+}
+.vision-block{
+    display: flex;
+    margin-top: 30px;
+}
+.vision-fblock{
+    border: 1px solid rgb(208, 219, 246);
+    border-radius: 10px;
+    background-color:rgb(208, 219, 246);
+    padding: 20px; 
+    width: 377px; 
+    height: 250px;
+    margin-right: 30px;
+
+}
+.visionsblock{
+    border: 1px solid rgb(248, 223, 178);
+    border-radius: 10px;
+    background-color:rgb(248, 223, 178);
+    padding: 20px; 
+    width: 377px; 
+    height: 250px;
+    margin-right: 25px;
+}
+.btn1 {
+    margin-top: 20px;
+    height: 30px;
+    width: 95px;
+    border-radius: 5px; 
+    border: 1px solid rgb(88, 132, 243);
+    background-color: rgb(88, 132, 243);
+    color: white;
+}
+.btn1:hover {
+    background-color: #a85ca0; 
+}
+.btn2 {
+    margin-top: 20px;
+    height: 30px;
+    width: 95px;
+    border-radius: 5px; 
+    border: 1px solid rgb(61, 155, 75);
+    background-color: rgb(48, 195, 92);
+    color: white;
+}
+.btn2:hover {
+    background-color: #c44d9d; 
+}
+.btn3 {
+    margin-top: 20px;
+    height: 30px;
+    width: 95px;
+    border-radius: 5px; 
+    border: 1px solid #FFC239;
+    background-color: #FFC239;
+    color: white;
+}
+.btn3:hover {
+    background-color: #684e14; 
+}
+.vf{
+    color: #716c6c;
+    padding-right: 100px;  
+}
+#pic{
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right:80px;
+    border-radius: 15px;
+    background-color:white;
+    background-image:url("../images/quote-bg.png" );
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 1275px;
+    padding: 20px;
+
+}
+.recent-block{
+    display: flex;
+    gap: 25px;
+    margin-left: 80px;
+    margin-right:95px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px;
+}
+.rn{
+    margin-left: 80px;
+    margin-right:95px;  
+}
+.recentright{
+    display: flex;
+
+    gap: 8px;
+}
+
+.earth{
+    height: 306px;
+    width: 408px;
+    border-radius: 35px;
+} 
+.btn-4{ 
+margin-top: 15px;
+    color: #FFF;
+    font-family: "Fira Sans";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 60;
+    line-height: normal;
+    display: flex;
+    padding: 17px 34px;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+    border-radius: 8px;
+    border: 1px solid rgba(14, 14, 14, 0.10);
+    width: 100px;
+    align-self: center;
+    background: #006A50;
+}
+.btn-4:hover{
+    background-color: #c44d9d;
+}
+.seconfrec{
+    margin-top: 30px;
+}
+.dh{
+    color: #0E0E0E;
+    text-align: center;
+    font-family: "Fira Sans";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.dop{ 
+    color: rgba(14, 14, 14, 0.70);
+    width: 622px;
+    text-align: center;
+    font-family: "Fira Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    align-self: center;
+}
+.dbtn{
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    gap: 24px;
+    margin-left: 185px;
+    margin-right: 80px;
+}
+.lbtn{
+    display: flex;
+    padding: 40px;
+    flex-direction: column;
+    align-items: center;
+    color: #0E0E0E;
+    size: 60px;
+    gap: 28px;
+    width: 150px;
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: #FFF;
+}
+.lbtn:hover{
+     background-color: #6dfff3;
+}
+.lbtnc{
+    display: flex;
+    padding: 40px;
+    flex-direction: column;
+    align-items:center;
+    gap: 30px;
+    width: 150px;
+    border-radius: 16px;
+    border: 1px solid rgba(38, 24, 24, 0.15);
+    background: #C6E4D6;
+}
+.lbtnc:hover{
+    background-color: #6dfff3;
+}
+.dsection{
+        display: flex;
+        justify-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        margin-bottom: 40px;
+}
+.donation-input{
+    display: flex;
+    width: 800px;
+    padding: 20px 40px;
+    align-self: center;
+    gap: 24px;
+    color: rgba(246, 241, 241, 0.3);
+    font-family: "Fira Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: #FFF;
+}
+.donate-btn{
+    margin-top: 15px;
+    color: #FFF;
+    font-family: "Fira Sans";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 60;
+    line-height: normal;
+    display: flex;
+    padding: 17px 34px;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+    border-radius: 8px;
+    border: 1px solid rgba(14, 14, 14, 0.10);
+    width: 180px;
+    align-self: center;
+    background: #006A50;
+}
+.donate-btn:hover{
+    background-color: #6dfff3;
+}
+.last{
+    border-radius: 24px;
+    background: #C6E4D6;
+    width: 1100px;
+    padding: 80px 100px;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+    margin-left: 80px;
+    margin-right:80px;
+}
+.sub{
+    display: flex;
+    justify-content: center;
+}
+.para{
+    color: #474747;
+    text-align: center;
+}
+.subscribe{
+    display: flex;
+width: 600px;
+padding: 18px 40px;
+flex-direction: column;
+align-items: flex-start;
+gap: 24px;
+border-radius: 8px 0px 0px 8px;
+background: #FFF;
+}
+.sub-btn{
+    display: flex;
+    padding: 17px 34px;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+    border-radius: 0px 8px 8px 0px;
+    background: #006A50;
+}
+.sub-btn:hover{
+    background-color: #051a15;
+}
+nav ul{
+    display:flex;
+    align-items: center;
+    
+}
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav li a{
+    text-decoration: none;
+    font-size: 20px;
+}
